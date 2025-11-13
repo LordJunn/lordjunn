@@ -1,8 +1,14 @@
 # 💫 About Me:
-Hello, I do things. Currently a step up from toddler coder, I am now a Middle School tier coder, but forced to be an Intern (paid like intern, task like full time) tier coder for the time being.   
-I still require an adultier adult to help me navigate the chaotic world of real codebases and "best practices." The lack of (clear) documentation (if any) infuriates me.    
-These big boy boots are a little too big for me, but I'll be wearing them for 3 months. Please extend a helping hand (or 2) if I do pokai. Not an if, only when.   
-This README is cool.  
+Hello, I still do things.  
+Former “Middle School tier coder” turned “Final Year University tier coder,” now walking around in slightly better-fitting big boy boots. Feet are kinda high school sized though.  
+
+I’ve survived the **Intern Era™** — paid like an intern, tasked like full-time — and came out with more sleep dependency and slightly improved debugging instincts (track everything via logs, tons of prints).  
+Currently juggling final-year projects with thesis, remaining subjects, and the eternal quest for code that works *and* makes sense. 
+
+Still learning, still breaking things, still figuring out what “best practices” actually mean.  
+If you see me pokai, please extend a helping hand (or at least send Stack Overflow links).  
+Graduating soon (read: Around Oct 2026) and looking for a **full-time software developer/data scientist position** — somewhere I can keep learning, build cool stuff, and maybe get paid enough to afford a better bed.  
+If you think I’d be a good fit, let’s chat!  
 
 ![Vic read](https://www.novelupdatesforum.com/attachments/screenshot_20180308-085239-jpg.40270/)
 
