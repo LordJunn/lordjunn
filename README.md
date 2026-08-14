@@ -76,19 +76,17 @@ If you think I’d be a good fit, let’s chat!
  
 <!-- Theme: Flat, categorised by GPT -->    
 <!-- I think I'll learn on the job -->   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lordjunn&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=lordjunn&theme=blue_navy&hide_border=false)     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjunn&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-stats-extended.vercel.app/api?username=lordjunn&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=lordjunn&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Theme: Blue Navy -->
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lordjunn&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=lordjunn&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
 <!-- Theme: Gruvbox -->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lordjunn&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
      
----
-[![](https://visitcount.itsvg.in/api?id=lordjunn&icon=0&color=0)](https://visitcount.itsvg.in)          
+---       
     
 ## 💰 You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/LordJunn) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/LordJunn) 
