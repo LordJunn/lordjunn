@@ -1,15 +1,18 @@
 # 💫 About Me:
 Hello, I still do things.  
 
-I'm Junn, a Computer Science graduate specialising in Data Science, currently looking for a full-time role in software engineering, backend development, full-stack development, data, or automation.
-I started as a “Middle School tier coder” and somehow made it all the way to University Graduate tier coder. The boots fit slightly better now. The debugging habits remain questionable.
+I'm Junn, a Computer Science graduate specialising in Data Science, currently working as a **Junior AI Engineer**.
+I started as a “Middle School tier coder” and somehow made it all the way to University Graduate tier coder — and eventually into the **Employed Developer™** tier. The boots fit slightly better now. The debugging habits remain questionable.
 
 I’ve survived the **Intern Era™** — paid like an intern, tasked like full-time — and came out with more sleep dependency, improved debugging instincts (track everything via logs, tons of prints), and significantly more appreciation for automation (why do by hand when can do by code + verify by eye).  
 
-Still learning, still breaking things, still figuring out what “best practices” actually mean.  
-If you see me pokai, please extend a helping hand (or at least send Stack Overflow links, or AI conversations?).  
-Graduated (somehow) and looking for a **full-time software developer/data scientist position** — somewhere I can keep learning, build cool stuff, and maybe get paid enough to afford a better chair.  
-If you think I’d be a good fit, let’s chat!  
+Now that I'm working professionally, I'm still learning, still breaking things, and still figuring out what “best practices” actually mean. The difference is that there are now slightly more production environments involved, along with general PnC things.
+
+My interests are mainly around **software engineering, backend development, full-stack development, data, and automation**. I enjoy building things, figuring out why they don't work, and occasionally discovering that the problem was a missing semicolon, incorrect assumption (be it hard coded or not), or something that could have been solved with one line of code.
+
+If you see me pokai, please extend a helping hand (or at least send Stack Overflow links, Documentation, or AI conversations?).  
+Currently employed, still learning, and still building cool stuff.
+And yes, I'm still trying to afford that better chair.
 
 ![Vic read](https://www.novelupdatesforum.com/attachments/screenshot_20180308-085239-jpg.40270/)
 
